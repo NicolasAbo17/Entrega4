@@ -17,9 +17,5 @@ mcd = (a,b) =>{
         c = Math.min(a,b);
         d = Math.abs(a-b);
         return mcd(c,d);
-}
-}
-
-function mcd(a,b){
-    
+    }
 }
